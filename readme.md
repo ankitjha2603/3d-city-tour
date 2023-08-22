@@ -6,8 +6,8 @@ Welcome to the 3D City with Autonomous Cars project! This project showcases an i
 
 Check out the live demo [here](https://ankitjha2603.github.io/3d-city-tour) to experience the interactive 3D city for yourself!
 
-[![Project Demo](<ss/img%20(1).png>)]
-[![Project Demo](<ss/img%20(2).png>)]
+![Project Demo](ss/img%20(1).png)
+![Project Demo](<ss/img%20(2).png>)
 
 ## Features
 
